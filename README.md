@@ -1,16 +1,27 @@
-## Hi there 👋
+# QA Engineer — навчальний проєкт
 
-<!--
-**vladichok416/vladichok416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. Мета проєкту
+Ознайомитися з основами тестування вебсайтів та навчитися знаходити помилки.
 
-Here are some ideas to get you started:
+## 2. Об'єкт тестування
+Навчальний вебсайт із головною сторінкою, меню, формою реєстрації та кнопками.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 3. Інструменти
+- GitHub
+- Google Chrome
+- DevTools
+- Ручне тестування
+
+## 4. Тестування
+Перевірка:
+- правильності відкриття сторінок;
+- роботи посилань і кнопок;
+- заповнення форм;
+- відображення сайту на різних екранах;
+- наявності помилок у тексті та інтерфейсі.
+
+## 5. Висновок
+Цей навчальний проєкт допомагає отримати базові знання з тестування програмного забезпечення та розвивати навички QA Engineer.
+
+**Автор:** Низельський Влад  
+**Група:** 511
